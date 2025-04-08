@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure--x68yrxgpr5jvdmh42rf0c2l=c9om#f#-(8=qnx2r%rdx-#$u(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'obscure-enigma-wpw9rjwvwf56rg-8000.app.github.dev']
 
 
 # Application definition
